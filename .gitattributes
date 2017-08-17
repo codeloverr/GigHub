@@ -1,5 +1,0 @@
-# Auto detect text files and perform LF normalization
-* 
-* linguist-vendored
-*.js linguist-vendored=false
-*.cs linguist-language=C#
